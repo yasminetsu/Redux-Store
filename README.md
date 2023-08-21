@@ -2,7 +2,7 @@
 
 ## DEMO
 
-https://yasminetsu.github.io/note-taker
+https://yasminetsu.github.io/
 
 
 ## Technologies
